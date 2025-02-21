@@ -12,12 +12,12 @@ This repository serves as my **personal reference** for:
 
 > **Note:** This repository is **not intended as an educational resource for others**. It reflects my personal exploration and learning process.
 
-## ⚙️ Focus Areas
+## Focus Areas
 - **Workflow Development:** Building, optimizing, and managing bioinformatics pipelines
 - **Project Management:** Structuring computational projects for reproducibility and scalability
 - **Tool Integration:** Exploring tools like **Nextflow**
 
-## 🚀 Tools & Technologies
+## Tools & Technologies
 - **Workflow Managers:** Nextflow
 - **Containerization:** Docker, Singularity
 - **Version Control:** Git, GitHub
