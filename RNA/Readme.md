@@ -4,7 +4,7 @@ This is a structured workflow for analyzing **RNA-Seq data from cancer samples**
 
 ---
 
-## **📌 Table of Contents**
+## **Table of Contents**
 1. [Introduction](#introduction)
 2. [Workflow Overview](#workflow-overview)
 3. [Step-by-Step Guide](#step-by-step-guide)
@@ -18,12 +18,12 @@ This is a structured workflow for analyzing **RNA-Seq data from cancer samples**
 
 ---
 
-## **📌 Introduction**
+## **Introduction**
 RNA-Seq is a powerful technique for studying **gene expression profiles in cancer**. This workflow processes RNA sequencing data from **raw reads to gene expression quantification**, using tools optimized for **high-performance computing (HPC) clusters**.
 
 ---
 
-## **📌 Workflow Overview**
+## **Workflow Overview**
 The pipeline follows these steps:
 
 1. **Preprocessing**: Quality control and trimming of raw FASTQ reads.
@@ -34,7 +34,7 @@ The pipeline follows these steps:
 
 ---
 
-## **📌 Step-by-Step Guide**
+## **Step-by-Step Guide**
 ### **Step 1: Data Preprocessing**
 - **Quality control**: Assess raw reads using **FastQC**.
 - **Trimming**: Remove adapters and low-quality bases with **Fastp**.
@@ -82,7 +82,7 @@ bsub -J featureCounts -o featureCounts.out -e featureCounts.err -n 8 -R "rusage[
 * Differential Expression Analysis (DESeq2, edgeR).
 * Visualization (PCA, heatmaps, volcano plots).
 
-## **📌 LSF Job Management**
+## **LSF Job Management**
 For job submission and monitoring on LSF clusters, see the [LSF Command Summary](https://github.com/dzhao2019/BioPipelineCraft/blob/main/RNA/LSF%20Command%20Summary.md).
 
 Essential Commands:
@@ -93,7 +93,7 @@ bkill <jobID>     # Cancel a job
 bqueues -l        # View available queues
 ```
 
-## References
+## **References**
 
 - [STAR: Spliced Transcripts Alignment to a Reference](https://github.com/alexdobin/STAR)  
 - [FeatureCounts: Read Quantification](http://subread.sourceforge.net/)  
