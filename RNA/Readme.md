@@ -1,7 +1,6 @@
 # **RNA-Seq Data Analysis for Cancer Sequencing**
-*(Part of [BioPipelineCraft](https://github.com/dzhao2019/BioPipelineCraft/tree/main/RNA))*
 
-This repository provides a structured workflow for analyzing **RNA-Seq data from cancer samples** using **LSF job scheduling**, **FeatureCounts**, and other bioinformatics tools. The pipeline ensures efficient processing, alignment, quantification, and interpretation of cancer RNA-Seq datasets.
+This is a structured workflow for analyzing **RNA-Seq data from cancer samples** using **LSF job scheduling**, **FeatureCounts**, and other bioinformatics tools. The pipeline ensures efficient processing, alignment, quantification, and interpretation of cancer RNA-Seq datasets.
 
 ---
 
