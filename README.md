@@ -1,28 +1,39 @@
-# BioPipelineCraft
+# CancerGenomicsPipelines
 
-This is a personal collection of resources, study notes, and workflow experiments focused on bioinformatics pipelines for human genetics/cancer research. This repository documents my learning journey in developing and managing bioinformatics workflows, particularly using **Nextflow**, while also improving project management skills in computational biology.
+A public repository for documenting bioinformatics pipeline development in cancer genomics.
 
-## 📌 About This Repository
+## Overview
 
-This repository serves as my **personal reference** for:
-- Study notes on bioinformatics workflow development, focusing on human genetics
-- Hands-on experiments with Nextflow and related tools
-- Code snippets, scripts, and pipeline prototypes
-- Best practices for project organization and reproducibility
+This repository serves as a collection of my experiments, code, and notes related to building 
+and managing bioinformatics pipelines for cancer genomics research. It documents my journey in:
 
-> **Note:** This repository is **not intended as an educational resource for others**. It reflects my personal exploration and learning process.
+* Developing and optimizing bioinformatics workflows. 
+* Improving project management skills for computational biology. 
+* Exploring tools and technologies for pipeline development.
 
-## Focus Areas
-- **Workflow Development:** Building, optimizing, and managing bioinformatics pipelines
-- **Project Management:** Structuring computational projects for reproducibility and scalability
-- **Tool Integration:** Exploring tools like **Nextflow**
+**_Important Note:_** 
 
-## Tools & Technologies
-- **Workflow Managers:** Nextflow
-- **Containerization:** Docker, Singularity
-- **Version Control:** Git, GitHub
-- **Programming Languages:** Python, R, Bash
+This is a **public** repository. 
+This repository is **not intended as an educational resource for others**. 
+Content reflects my learning process and may include incomplete or evolving code.
 
+## OUTLINE
+
+This repository is organized around the following key areas:
+
+* **Pipeline Development:** Design, implementation, and optimization of bioinformatics pipelines.
+* **Tool Exploration:** Investigation and usage of relevant bioinformatics tools and technologies.
+* **Project Management:** Strategies for organizing and managing bioinformatics projects.
+
+## Content Guidelines
+
+To maintain clarity and focus, the following guidelines are used:
+
+* **Workflow Focus:** Emphasize pipeline construction, modification, and execution.
+* **Tool Usage in Context:** Document how tools are used *within* pipelines (parameters, inputs/outputs).
+* **Code and Scripts:** Include code snippets and pipeline scripts with explanations.
+* **Reproducibility:** Note strategies for ensuring reproducibility (e.g., version control, containerization).
+* **Exclude SOPs:** Do not include detailed, step-by-step Standard Operating Procedures (SOPs).
 
 ## 📚 Resources
 
