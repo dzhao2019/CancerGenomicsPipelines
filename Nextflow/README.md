@@ -1,8 +1,33 @@
 # 🧬 Nextflow Mastery: A 28-Day Learning Journey
 
+[![Learning Progress](https://img.shields.io/badge/Progress-0%25-red)]()
+[![Days Completed](https://img.shields.io/badge/Days-0%2F28-blue)]()
+[![Current Week](https://img.shields.io/badge/Week-1-green)]()
+
 > From Python programmer to Nextflow pipeline architect in one month
 
+## 📚 About This Repository
+
+This repository contains a comprehensive, self-paced 28-day course designed to take you from zero Nextflow knowledge to building production-ready bioinformatics workflows. Each day requires only **30 minutes** of focused learning.
+
+### Who This Course Is For
+
+- **Bioinformatics students** looking to move beyond sequential Python scripts
+- **Computational biologists** who want to build scalable, reproducible pipelines
+- **Python programmers** interested in workflow orchestration
+- **Researchers** needing to process large-scale genomic data efficiently
+
+### Prerequisites
+
+- ✅ Basic Python programming knowledge (variables, functions, loops, data structures)
+- ✅ Familiarity with bioinformatics concepts (FASTQ files, genomic workflows)
+- ✅ Command-line basics
+- ❌ No Groovy knowledge required
+- ❌ No prior workflow management experience needed
+
 ## 🎯 Learning Objectives
+
+By the end of this course, you will be able to:
 
 - Design and implement complex bioinformatics workflows using Nextflow
 - Understand processes, channels, and workflows deeply
@@ -11,7 +36,6 @@
 - Debug and optimize workflow performance
 - Scale pipelines from laptop to cluster to cloud
 - Contribute to the Nextflow community and use nf-core resources
-
 
 ## 📅 Course Structure
 
@@ -34,6 +58,89 @@ Master advanced channel operations, subworkflows, resource management, and confi
 **Focus**: Complete pipeline development and deployment
 
 Build a production-ready RNA-seq pipeline, learn testing strategies, and scale to production environments.
+
+## 🗂️ Repository Structure
+
+```
+nextflow-learning-journey/
+├── README.md                          # This file
+├── OUTLINE.md                         # Detailed daily curriculum
+├── PROGRESS.md                        # Your learning log
+├── week-1-foundations/
+│   ├── day-01-what-is-nextflow/
+│   │   ├── lesson.md
+│   │   ├── examples/
+│   │   └── exercises/
+│   ├── day-02-groovy-essentials/
+│   ├── day-03-first-process/
+│   ├── day-04-understanding-channels/
+│   ├── day-05-connecting-processes/
+│   ├── day-06-running-workflows/
+│   └── day-07-week-review/
+├── week-2-practical/
+│   ├── day-08-parameters/
+│   ├── day-09-collections/
+│   ├── day-10-multiple-inputs/
+│   ├── day-11-publishing-outputs/
+│   ├── day-12-error-handling/
+│   ├── day-13-containers/
+│   └── day-14-debugging/
+├── week-3-advanced/
+│   ├── day-15-subworkflows/
+│   ├── day-16-importing-workflows/
+│   ├── day-17-advanced-channels/
+│   ├── day-18-conditional-execution/
+│   ├── day-19-optimization/
+│   ├── day-20-configuration/
+│   └── day-21-sharing-workflows/
+├── week-4-production/
+│   ├── day-22-rnaseq-part1/
+│   ├── day-23-rnaseq-part2/
+│   ├── day-24-rnaseq-part3/
+│   ├── day-25-testing/
+│   ├── day-26-scaling/
+│   ├── day-27-monitoring/
+│   └── day-28-final-review/
+├── resources/
+│   ├── cheatsheets/
+│   ├── comparison-python-nextflow.md
+│   ├── common-pitfalls.md
+│   └── community-resources.md
+└── projects/
+    ├── week-1-project/
+    ├── week-2-project/
+    ├── week-3-project/
+    └── final-rnaseq-pipeline/
+```
+
+## 🚀 Getting Started
+
+### 1. Clone or Fork This Repository
+
+```bash
+git clone https://github.com/yourusername/nextflow-learning-journey.git
+cd nextflow-learning-journey
+```
+
+### 2. Read the Course Outline
+
+Start with [`OUTLINE.md`](OUTLINE.md) to understand the complete learning path.
+
+### 3. Begin Day 1
+
+Navigate to `week-1-foundations/day-01-what-is-nextflow/` and open `lesson.md`.
+
+### 4. Track Your Progress
+
+Update [`PROGRESS.md`](PROGRESS.md) daily with:
+- Date completed
+- Key learnings
+- Challenges faced
+- Questions for further exploration
+
+### 5. Complete Exercises
+
+Each day includes hands-on exercises. Work through them and compare with provided solutions.
 
 ## 📖 How to Use This Course
 
@@ -76,3 +183,60 @@ Learn *why* Nextflow works the way it does, not just *how* to write syntax.
 
 ### Community Integration
 By the end, you'll be ready to contribute to nf-core and participate in the Nextflow community.
+
+## 🔗 Essential Resources
+
+### Official Documentation
+- [Nextflow Documentation](https://www.nextflow.io/docs/latest/)
+- [Nextflow Patterns](https://nextflow-io.github.io/patterns/)
+- [Groovy Documentation](https://groovy-lang.org/documentation.html)
+
+### Community
+- [Nextflow Slack](https://www.nextflow.io/slack-invite.html)
+- [nf-core](https://nf-co.re/)
+- [Nextflow Forums](https://github.com/nextflow-io/nextflow/discussions)
+
+### Tutorials
+- [Seqera Labs Training](https://training.seqera.io/)
+- [nf-core Tutorials](https://nf-co.re/usage/tutorials)
+
+## 🤝 Contributing
+
+Found an error? Have a suggestion? Want to share your experience?
+
+- Open an issue describing what you found
+- Submit a pull request with improvements
+- Share your completed projects
+
+## 📜 License
+
+This educational repository is provided under the MIT License. Feel free to use, modify, and share.
+
+## 🙏 Acknowledgments
+
+This course structure is inspired by:
+- The Nextflow community and documentation
+- The nf-core project's best practices
+- Feedback from bioinformatics learners worldwide
+
+## 💬 Questions or Stuck?
+
+- Check [`resources/common-pitfalls.md`](resources/common-pitfalls.md)
+- Review the comparison guide in [`resources/comparison-python-nextflow.md`](resources/comparison-python-nextflow.md)
+- Search the [Nextflow discussions](https://github.com/nextflow-io/nextflow/discussions)
+- Ask in the [Nextflow Slack](https://www.nextflow.io/slack-invite.html)
+
+---
+
+## 🎯 Your Journey Starts Now
+
+Ready to transform from Python scripter to Nextflow pipeline architect?
+
+**Start with Day 1**: [`week-1-foundations/day-01-what-is-nextflow/lesson.md`](week-1-foundations/day-01-what-is-nextflow/lesson.md)
+
+Remember: **30 minutes a day for 28 days**. You've got this! 🚀
+
+---
+
+*Last updated: November 2025*  
+*Your progress: Day 0 of 28*
