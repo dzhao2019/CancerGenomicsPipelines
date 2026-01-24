@@ -1,3 +1,9 @@
 # JetBrains IDEs
 .idea/
 *.iml
+
+echo ".idea/" >> .gitignore
+git status
+git add .gitignore
+git commit -m "Ignore IDE files (.idea)"
+git push
