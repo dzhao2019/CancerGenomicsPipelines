@@ -16,7 +16,7 @@
 
 **Theme**: Understanding Nextflow's purpose and mastering fundamental building blocks
 
-### [Day 1: What Nextflow Actually Is](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/Day01_What_Nextflow_Actually_Is.md)
+### [Day 1: What Nextflow Actually Is](https://github.com/dzhao2019/CancerGenomicsPipelines/tree/main/Nextflow/week-1-foundations/day-01-what-is-nextflow)
 **Monday | 30 minutes**
 
 **Description**: Establish why Nextflow exists and what problems it solves in bioinformatics. Understand the difference between orchestration and data processing, and learn where Nextflow fits in the bioinformatics ecosystem.
