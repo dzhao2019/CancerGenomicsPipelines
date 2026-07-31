@@ -21,8 +21,8 @@ Day-01-Materials/
 ## ⚡ Quick Start (5 minutes)
 
 ### For Impatient Learners:
-1. Read **[day-01-quick-reference.md](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-quick-reference.md)** (2 min)
-2. Skim **[day-01-lesson.md](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-lesson.md)** introduction (3 min)
+1. Read **[day-01-quick-reference.md](day-01-quick-reference.md)** (2 min)
+2. Skim **[day-01-lesson.md](day-01-lesson.md)** introduction (3 min)
 3. Dive into Day 1
 
 ### For Thorough Learners:
@@ -37,12 +37,12 @@ Day-01-Materials/
 
 | File | Purpose | Time | Best For |
 |------|---------|------|----------|
-| **[day-01-lesson](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-lesson.md)** | Complete 30-min lesson | 30 min | Main learning |
-| **[day-01-groovy-examples](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-groovy-examples.md)** | Syntax examples | 5 min | Code familiarity |
-| **[day-01-exercises-solutions](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-exercises-solutions.md)** | Deep solutions | 10 min | Understanding |
-| **[day-01-quick-reference](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-quick-reference.md)** | One-page reference | 2 min | Quick lookup |
-| **[day-01-index](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-index.md)** | Navigation & progress | 5 min | Tracking |
-| **[DAY-01-SUMMARY](https://github.com/dzhao2019/CancerGenomicsPipelines/blob/main/Nextflow/week-1-foundations/day-01-what-is-nextflow/day-01-SUMMARY.md)** | Overview of all content | 5 min | Big picture |
+| **[day-01-lesson](day-01-lesson.md)** | Complete 30-min lesson | 30 min | Main learning |
+| **[day-01-groovy-examples](day-01-groovy-examples.md)** | Syntax examples | 5 min | Code familiarity |
+| **[day-01-exercises-solutions](day-01-exercises-solutions.md)** | Deep solutions | 10 min | Understanding |
+| **[day-01-quick-reference](day-01-quick-reference.md)** | One-page reference | 2 min | Quick lookup |
+| **[day-01-index](day-01-index.md)** | Navigation & progress | 5 min | Tracking |
+| **[DAY-01-SUMMARY](day-01-SUMMARY.md)** | Overview of all content | 5 min | Big picture |
 
 ---
 
