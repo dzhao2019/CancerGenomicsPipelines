@@ -1,9 +1,5 @@
 # 🧬 Nextflow Mastery: A 28-Day Learning Journey
 
-[![Learning Progress](https://img.shields.io/badge/Progress-0%25-red)]()
-[![Days Completed](https://img.shields.io/badge/Days-0%2F28-blue)]()
-[![Current Week](https://img.shields.io/badge/Week-1-green)]()
-
 > From Python programmer to Nextflow pipeline architect in one month
 
 ## 📚 About This Repository
