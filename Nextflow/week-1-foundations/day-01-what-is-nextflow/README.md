@@ -13,7 +13,7 @@ Day-01-Materials/
 ├── day-01-quick-reference.md          (Print-friendly reference)
 ├── day-01-index.md                    (Navigation & tracking)
 ├── DAY-01-SUMMARY.md                  (Overview of all materials)
-└── README-DAY-01.md                   (This file)
+└── README.md                   (This file)
 ```
 
 ---
