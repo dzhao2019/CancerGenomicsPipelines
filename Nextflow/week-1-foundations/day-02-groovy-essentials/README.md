@@ -15,7 +15,7 @@ You have received **comprehensive Day 2 materials** for the 28-Day Nextflow Mast
 
 ```
 Day-02-Materials/
-├── README.md              (This file - START HERE)
+├── README.md                     (This file - START HERE)
 ├── day-02-lesson.md              (Main 30-minute lesson)
 ├── day-02-exercises.md           (7 hands-on exercises)
 ├── day-02-quick-reference.md     (Print-friendly cheat sheet)
@@ -73,10 +73,10 @@ Day-02-Materials/
 
 | File | Purpose | Time | Best For |
 |------|---------|------|----------|
-| **day-02-lesson.md** | Complete learning material | 25 min | Main instruction |
-| **day-02-exercises.md** | 7 hands-on exercises | 30 min | Practice & testing |
-| **day-02-quick-reference.md** | One-page cheat sheet | 2 min | Quick lookup |
-| **day-02-index.md** | Navigation & tracking | 5 min | Organization |
+| **[day-02-lesson.md](day-02-lesson.md)** | Complete learning material | 25 min | Main instruction |
+| **[day-02-exercises.md](day-02-exercises.md)** | 7 hands-on exercises | 30 min | Practice & testing |
+| **[day-02-quick-reference.md](day-02-quick-reference.md)** | One-page cheat sheet | 2 min | Quick lookup |
+| **[day-02-index.md](day-02-index.md)** | Navigation & tracking | 5 min | Organization |
 
 ---
 
@@ -303,13 +303,6 @@ A: 30 minutes for the main lesson, 30 minutes for exercises, total 60 minutes fo
 
 ---
 
-## 🎉 You're Ready!
-
-Everything you need is here. No waiting, no setup, no prerequisites beyond Day 1.
-
-**You can start learning right now.**
-
----
 
 ## ⏰ Time Estimate
 
@@ -345,10 +338,6 @@ Or choose your path from above for less time!
 3. Check the solution explanation
 4. Look it up in quick reference
 5. Try a variation of the exercise
-
----
-
-**You've got everything you need. Let's go! 🚀**
 
 ---
 
