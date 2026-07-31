@@ -15,7 +15,7 @@ You have received **comprehensive Day 2 materials** for the 28-Day Nextflow Mast
 
 ```
 Day-02-Materials/
-├── README.md              (This file - START HERE)
+├── README.md                     (This file - START HERE)
 ├── day-02-lesson.md              (Main 30-minute lesson)
 ├── day-02-exercises.md           (7 hands-on exercises)
 ├── day-02-quick-reference.md     (Print-friendly cheat sheet)
