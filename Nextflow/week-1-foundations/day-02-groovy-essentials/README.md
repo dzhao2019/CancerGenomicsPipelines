@@ -1,15 +1,6 @@
 # 🧬 Day 2: Groovy Essentials for Nextflow
 
-## 📦 Complete Learning Package
 
-You have received **comprehensive Day 2 materials** for the 28-Day Nextflow Mastery Course.
-
-**Status:** ✅ Ready to use immediately  
-**Installation:** ❌ NOT required  
-**Time to complete:** 30-45 minutes  
-**Quality:** ⭐⭐⭐⭐⭐ Professional  
-
----
 
 ## 🗂️ File Structure
 
