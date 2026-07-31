@@ -1,27 +1,7 @@
 # 🧬 Day 3: Your First Nextflow Process
 
-## 📦 Complete Learning Package
 
-You have received **comprehensive Day 3 materials** for the 28-Day Nextflow Mastery Course.
-
-**Status:** ✅ Ready to use immediately  
-**Installation:** ❌ NOT required  
-**Time to complete:** 30-45 minutes  
-**Quality:** ⭐⭐⭐⭐⭐ Professional  
-
----
-
-## 🎯 What You'll Learn Today
-
-✅ **Process anatomy** - The 5 parts every process has  
-✅ **Inputs** - How to declare what you need  
-✅ **Outputs** - How to declare what you create  
-✅ **Scripts** - Where the work happens  
-✅ **Real examples** - Actual bioinformatics processes  
-
----
-
-## 🗂️ Files in This Package
+## 🗂️ File Structure
 
 | File | Purpose | Time | Size |
 |------|---------|------|------|
