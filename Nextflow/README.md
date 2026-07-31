@@ -27,7 +27,6 @@ This repository contains a comprehensive, self-paced 28-day course designed to t
 
 ## 🎯 Learning Objectives
 
-By the end of this course, you will be able to:
 
 - Design and implement complex bioinformatics workflows using Nextflow
 - Understand processes, channels, and workflows deeply
@@ -65,7 +64,6 @@ Build a production-ready RNA-seq pipeline, learn testing strategies, and scale t
 nextflow-learning-journey/
 ├── README.md                          # This file
 ├── OUTLINE.md                         # Detailed daily curriculum
-├── PROGRESS.md                        # Your learning log
 ├── week-1-foundations/
 │   ├── day-01-what-is-nextflow/
 │   │   ├── lesson.md
@@ -130,15 +128,7 @@ Start with [`OUTLINE.md`](OUTLINE.md) to understand the complete learning path.
 
 Navigate to `week-1-foundations/day-01-what-is-nextflow/` and open `lesson.md`.
 
-### 4. Track Your Progress
-
-Update [`PROGRESS.md`](PROGRESS.md) daily with:
-- Date completed
-- Key learnings
-- Challenges faced
-- Questions for further exploration
-
-### 5. Complete Exercises
+### 4. Complete Exercises
 
 Each day includes hands-on exercises. Work through them and compare with provided solutions.
 
@@ -161,7 +151,6 @@ Each day includes hands-on exercises. Work through them and compare with provide
 - ⏰ **Consistency matters**: 30 minutes daily beats sporadic longer sessions
 - 💻 **Type the code**: Don't just read—actually write the examples
 - 🔄 **Experiment**: Modify examples to see what changes
-- 📝 **Take notes**: Write down insights in your progress log
 - 🤔 **Ask questions**: Note questions to research later
 - 🔗 **Compare with Python**: Leverage your existing knowledge
 
@@ -181,8 +170,6 @@ All examples use real bioinformatics tools and scenarios—no abstract "foo" and
 ### Understanding Over Memorization
 Learn *why* Nextflow works the way it does, not just *how* to write syntax.
 
-### Community Integration
-By the end, you'll be ready to contribute to nf-core and participate in the Nextflow community.
 
 ## 🔗 Essential Resources
 
@@ -226,17 +213,7 @@ This course structure is inspired by:
 - Search the [Nextflow discussions](https://github.com/nextflow-io/nextflow/discussions)
 - Ask in the [Nextflow Slack](https://www.nextflow.io/slack-invite.html)
 
----
-
-## 🎯 Your Journey Starts Now
-
-Ready to transform from Python scripter to Nextflow pipeline architect?
-
-**Start with Day 1**: [`week-1-foundations/day-01-what-is-nextflow/lesson.md`](week-1-foundations/day-01-what-is-nextflow/lesson.md)
-
-Remember: **30 minutes a day for 28 days**. You've got this! 🚀
 
 ---
 
-*Last updated: November 2025*  
-*Your progress: Day 0 of 28*
+*Last updated: Jul 2026*  
