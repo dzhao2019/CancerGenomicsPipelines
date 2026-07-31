@@ -5,10 +5,10 @@
 
 | File | Purpose | Time | Size |
 |------|---------|------|------|
-| **day-03-lesson.md** | Main learning material | 20 min | 24 KB |
-| **day-03-exercises.md** | 6 hands-on exercises | 30 min | 22 KB |
-| **day-03-quick-reference.md** | Cheat sheet (print-friendly) | 2 min | 12 KB |
-| **day-03-index.md** | Navigation & tracking | 5 min | 14 KB |
+| **[day-03-lesson.md](day-03-lesson.md)** | Main learning material | 20 min | 24 KB |
+| **[day-03-exercises.md](day-03-exercises.md)** | 6 hands-on exercises | 30 min | 22 KB |
+| **[day-03-quick-reference.md](day-03-quick-reference.md)** | Cheat sheet (print-friendly) | 2 min | 12 KB |
+| **[day-03-index.md](day-03-index.md)** | Navigation & tracking | 5 min | 14 KB |
 
 ---
 
@@ -268,9 +268,5 @@ You'll learn:
 | Exercises | ⭐⭐⭐⭐⭐ |
 | Organization | ⭐⭐⭐⭐⭐ |
 
----
 
-**You're ready. Your first Nextflow process awaits. Let's go! 🚀**
-
-*Day 3 of 28 - Building the foundation for production-ready workflows!*
 
